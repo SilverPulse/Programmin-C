@@ -21,7 +21,7 @@ int main() {
     int wordIndex = 0;
 
     while (text[i] != '\0') {
-        if (isalnum(text[i])) {
+        if (isalnum(text[i])) { // если текущий символ является буквой или цифрой(функция isanlum возвращает True), то добавляем символ в массив word, увеличивая индекс wordIndex
             word[wordIndex++] = text[i];
         } else {
             if (wordIndex > 0) {
@@ -38,7 +38,7 @@ int main() {
     // Обработка последнего слова, если строка не заканчивается на пробел
     if (wordIndex > 0) {
         word[wordIndex] = '\0';
-        processWord(word);
+        procWord(word);//если в word накопились символы (т.е собрали слово), это слово обрабатывается функцией procWord,и его символы меняются местами.
         printf("%s", word);
     }
     return 0;
