@@ -1,0 +1,4 @@
+/mnt/c/Users/Shaim/Desktop/Учеба/СибГути/Программирование/test/bn/CMakeFiles/list-c.dir
+/mnt/c/Users/Shaim/Desktop/Учеба/СибГути/Программирование/test/bn/CMakeFiles/test.dir
+/mnt/c/Users/Shaim/Desktop/Учеба/СибГути/Программирование/test/bn/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Shaim/Desktop/Учеба/СибГути/Программирование/test/bn/CMakeFiles/rebuild_cache.dir
