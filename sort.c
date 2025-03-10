@@ -14,3 +14,5 @@ void bubble_Sort(int arr[], int n, int *M, int *C) {
         }
     }
 }
+
+// это бубль сорт
