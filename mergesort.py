@@ -7,6 +7,15 @@ def merge_sort2(m):
 
     # Determine the pivot point
     middle = len(m) // 2
+from heapq import merge
+
+def merge_sort2(m):
+    """Sort list, using two part merge sort"""
+    if len(m) <= 1:
+        return m
+
+    # Determine the pivot point
+    middle = len(m) // 2
 
     # Split the list at the pivot
     left = m[:middle]
@@ -17,7 +26,7 @@ def merge_sort2(m):
     left = merge_sort2(left)
 
     # Merge and return
-    return list(merge(right, left))
+    return list(merge(left, right))  # Исправлено: merge(left, right)
 
 def merge_sort4(m):
     """Sort list, using four part merge sort"""
@@ -42,5 +51,4 @@ def merge_sort4(m):
     last = merge_sort4(last)
 
     # Merge and return
-    return list(merge(first, second, third, last))
-
+    return list(merge(first, second, third, last))  # Исправлено: merge(first, second, third, last)
