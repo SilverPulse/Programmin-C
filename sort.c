@@ -14,6 +14,12 @@ void bubble_Sort(int arr[], int n, int *M, int *C) {
         }
     }
 }
+int main(){
+
+    int a[] = {4, 2, 7};
+    int n = 3;
+    bubble_Sort(a, n);
+}
 
 // это бубль сорт
 // ЭТИт код сортирует массив методом пузырька
