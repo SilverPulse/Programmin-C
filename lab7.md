@@ -356,7 +356,8 @@ int main() {
 }
 
 график:
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/ea8b0ae7-e4d3-45c7-884f-82f73ddb4717)
+
 
 
 оценка 5:
