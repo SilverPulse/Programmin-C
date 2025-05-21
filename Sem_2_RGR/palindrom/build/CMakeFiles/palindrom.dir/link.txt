@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/palindrom.dir/src/main.c.o CMakeFiles/palindrom.dir/src/preprocess.c.o CMakeFiles/palindrom.dir/src/manacher.c.o CMakeFiles/palindrom.dir/src/utils.c.o -o palindrom 
