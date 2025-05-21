@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_check.dir/test_check.c.o CMakeFiles/test_check.dir/__/src/preprocess.c.o -o test_check 

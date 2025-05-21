@@ -1,0 +1,8 @@
+/mnt/c/Users/Shaim/Desktop/Учеба/СибГути/Программирование/Семестр 2/palindrom/build/CMakeFiles/palindrom.dir
+/mnt/c/Users/Shaim/Desktop/Учеба/СибГути/Программирование/Семестр 2/palindrom/build/CMakeFiles/test.dir
+/mnt/c/Users/Shaim/Desktop/Учеба/СибГути/Программирование/Семестр 2/palindrom/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Shaim/Desktop/Учеба/СибГути/Программирование/Семестр 2/palindrom/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Shaim/Desktop/Учеба/СибГути/Программирование/Семестр 2/palindrom/build/tests/CMakeFiles/test_check.dir
+/mnt/c/Users/Shaim/Desktop/Учеба/СибГути/Программирование/Семестр 2/palindrom/build/tests/CMakeFiles/test.dir
+/mnt/c/Users/Shaim/Desktop/Учеба/СибГути/Программирование/Семестр 2/palindrom/build/tests/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Shaim/Desktop/Учеба/СибГути/Программирование/Семестр 2/palindrom/build/tests/CMakeFiles/rebuild_cache.dir
